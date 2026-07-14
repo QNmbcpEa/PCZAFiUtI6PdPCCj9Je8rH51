@@ -1,0 +1,1 @@
+vi.po      strings: total: 23911	| 23911t	0f	0u	| 100.0%t	0.0%f	0.0%u
